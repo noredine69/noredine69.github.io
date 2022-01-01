@@ -18,13 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+tagline: Toujours plus loin, toujours plus fort
+author: Noredine
+avatar: "/assets/img/avatar-icon.png" 
+twitter:
+  username: noredine69
+github:
+  username: noredine69
+paginate: 10
+disqus: zivong
+
+
 title: Noredine's blog
 email: noredine69.blog@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Blog about tech, heavy metal, and doing some crafts.
-baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: noredine69
-github_username:  noredine69
+description: Blog about tech, heavy metal, and doing some crafts.
+baseurl: "" 
 domaine: noredine69.github.io
 url: https://noredine69.github.io
 
@@ -32,8 +40,12 @@ url: https://noredine69.github.io
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-remote-theme
-remote_theme: pages-themes/minimal@v0.2.0
+  - jekyll-seo-tag
+  - jekyll-sitemap
+remote_theme: ngzhio/jekyll-theme-hamilton
+#remote_theme: zivong/ockham
 #plugins:
 #  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
