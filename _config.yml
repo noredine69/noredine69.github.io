@@ -26,7 +26,9 @@ twitter:
 github:
   username: noredine69
 paginate: 10
-disqus: zivong
+disqus: noredine69
+
+markdown: kramdown
 
 
 title: Noredine's blog
@@ -44,7 +46,21 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-archives
 remote_theme: ngzhio/jekyll-theme-hamilton
+include:
+  - _pages
+layout: archive
+
+jekyll-archives:
+  enabled:
+    - year
+  layouts:
+    year: year-archive
+  permalinks:
+    year: '/:year/'
+
+github: [metadata]
 #remote_theme: zivong/ockham
 #plugins:
 #  - jekyll-remote-theme # add this line to the plugins list if you already have one
