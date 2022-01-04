@@ -60,7 +60,7 @@ jekyll-archives:
   permalinks:
     year: '/:year/'
 
-github: [metadata]
+github: [ metadata ]
 
 staticmanUrl: https://noredine69-staticman.herokuapp.com/v2/entry/noredine69/noredine69.github.io/main/comments
 

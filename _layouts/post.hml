@@ -3,7 +3,7 @@ layout: page
 ---
 
 {{ content }}
-
+<!--
 <form method="POST" action="https://noredine69-staticman.herokuapp.com/v2/entry/noredine69/noredine69.github.io/main/comments">
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
   <input name="options[redirect]" type="hidden" value="{{ page.url | absolute_url }}">
@@ -12,3 +12,5 @@ layout: page
   <label><textarea name="fields[message]"></textarea>Message</label>
   <button type="submit">Go!</button>
 </form>
+
+-->
