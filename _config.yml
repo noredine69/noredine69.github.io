@@ -60,7 +60,10 @@ jekyll-archives:
   permalinks:
     year: '/:year/'
 
-github: [metadata]
+github: [ metadata ]
+
+staticmanUrl: https://noredine69-staticman.herokuapp.com/v2/entry/noredine69/noredine69.github.io/main/comments
+
 #remote_theme: zivong/ockham
 #plugins:
 #  - jekyll-remote-theme # add this line to the plugins list if you already have one
