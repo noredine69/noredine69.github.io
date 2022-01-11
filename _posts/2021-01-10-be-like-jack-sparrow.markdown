@@ -78,7 +78,7 @@ Choisissez un programme court, de l'ordre de 30 minutes.
 
 #### Finalisation
 A la fin du programme, les épices se sont bien mélangées au rhum, il ne vous reste plus qu'à les laisser refroidir.
-Evitez de les mettre directement au congélateur, même si vous êtes préssé, un chaufd-froid pourrait casser les bouteilles.
+Evitez de les mettre directement au congélateur, même si vous êtes préssé, un chaud-froid pourrait casser les bouteilles.
 Si vous avez tenté la version pirate, choisissez judicieusement qui vous servez ! ;)  
 
 ![Après cuisson, recto](/assets/img/2021-02-10-rhum/6_fin_1.jpg)    
