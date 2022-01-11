@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reveillez le Jack Sparrow qui sommeille en vous"
+title:  "Réveillez le Jack Sparrow qui sommeille en vous"
 date:   2022-01-10 22:00:00 +0100
 categories: rhum
 abstract: Comment faire des étincelles en soirée avec une recette simple à base de rhum. 
@@ -16,21 +16,21 @@ Donc son astuce, c'est déjà de préparer plusieurs bouteilles, et de les laver
 Oui, dans un lave vaisselle.  
 
 ### La recette
-Le principe de fermentation au soleil, c'est de faire `cuire` doucement, et longuement. Un cycle de lavage chauffe l'eau au maximum à 70°C, l'idéal est d'éxecuter un cycle plutot court à une température d'environ 40-50°C.
+Le principe de fermentation au soleil, c'est de faire `cuire` doucement, et longuement. Un cycle de lavage chauffe l'eau au maximum à 70°C, l'idéal est d'exécuter un cycle plutôt court à une température d'environ 40-50°C.
 
 #### Les ingrédients : 
 - un lave vaisselle (vide ou plein, il faut juste assez de place pour la ou les bouteilles)
 - une bouteille de rhum, `Rhum Charette` ou bien `Trois rivières`
 - idéalement 1 bouteille de limonade vide (25 ou 33cl)
 - 5cl de sucre de canne (à la louche, j'avoue ne pas avoir mesuré)
-- un entonoir
+- un entonnoir
 - un grand verre, genre 50cl 
 
 Pour la première recette: 
 - 1 banane
-- 2 cuillères à café de canelle moulue  
+- 2 cuillères à café de cannelle moulue  
 
-![La banane, et la canelle](/assets/img/2021-02-10-rhum/1_ingredients_1.jpg)
+![La banane, et la cannelle](/assets/img/2021-02-10-rhum/1_ingredients_1.jpg)
 
 
 Pour la seconde :
@@ -45,11 +45,11 @@ Pour les vrais pirates:
 #### La préparation
 Le principe général c'est donc de mettre des ingrédients dans une bouteille de rhum et de la chauffer.  
 Pour insérer quelques choses dans un récipient, il faut la place adéquate, et donc si on met une banane dans une bouteille de rhum, il faut enlever le volume correspondant de rhum, sinon...ben ça déborde.
-Donc déjà, remplisser le verre à moitié de rhum.  
+Donc déjà, remplissez le verre à moitié de rhum.  
 
 Pour la première recette : 
 - couper la banane en 3 sur la longueur. Grâce à cette recette j'ai appris que les bananes pouvaient se découper en 3 sur la longueur
-- insérer chaque parties dans la bouteille
+- insérer chaque partie dans la bouteille
 - glisser délicatement la cannelle. Attention vous allez en mettre de partout, vous pouvez utiliser le manche de la cuillère  
 
 ![Première préparation](/assets/img/2021-02-10-rhum/3_melange_1.jpg)
@@ -62,23 +62,23 @@ Pour la seconde :
 ![Seconde préparation](/assets/img/2021-02-10-rhum/4_melange_2.jpg)
 
 Pour les vrais pirates:
-- à partie de cet instants ne vous léchez pas les doigts. Ne les faites pas lécher par une autre personnes, et n'allez pas les mettre n'importe où (hum hum...)
+- à partie de cet instant ne vous léchez pas les doigts. Ne les faites pas lécher par une autre personnes, et n'allez pas les mettre n'importe où (hum hum...)
 - ouvrez le piment, et enlevez les graines
 - glissez le dans la petite bouteille de limonade
 
-Finalisez les préparations, en versant le sucre de canne avec l'aide de l'entonoir.
+Finalisez les préparations, en versant le sucre de canne avec l'aide de l'entonnoir.
 
 #### La cuisson
 J'ai oublié de préciser, n'utilisez que des bouteilles avec des bouchons qui se vissent.  
-Oubliez les bouteilles avec des bouchons en lièges, avec la chaleur, et l'eau, il va s'enlever et vous allez parfumer votre lave vaisselle au rhum. En soit ce n'est pas grave, ça m'est déjà arrivé.
-Si possible, faites tourner votre lave vaisselle à vide, juste avec vos bouteilles, j'ai cassé une bouteille car elle était bloqué par un plat, et pensez bien à les fermer!
+Oubliez les bouteilles avec des bouchons en liège, avec la chaleur, et l'eau, il va s'enlever et vous allez parfumer votre lave vaisselle au rhum. En soit ce n'est pas grave, ça m'est déjà arrivé.
+Si possible, faites tourner votre lave vaisselle à vide, juste avec vos bouteilles, j'ai cassé une bouteille car elle était bloquée par un plat, et pensez bien à les fermer!
 Choisissez un programme court, de l'ordre de 30 minutes.  
 
 ![Les bouteilles avec la vaisselle sale](/assets/img/2021-02-10-rhum/5_lave_vaisselle.jpg)
 
 #### Finalisation
 A la fin du programme, les épices se sont bien mélangées au rhum, il ne vous reste plus qu'à les laisser refroidir.
-Evitez de les mettre directement au congélateur, même si vous êtes préssé, un chaud-froid pourrait casser les bouteilles.
+Evitez de les mettre directement au congélateur, même si vous êtes pressé, un chaud-froid pourrait casser les bouteilles.
 Si vous avez tenté la version pirate, choisissez judicieusement qui vous servez ! ;)  
 
 ![Après cuisson, recto](/assets/img/2021-02-10-rhum/6_fin_1.jpg)    
