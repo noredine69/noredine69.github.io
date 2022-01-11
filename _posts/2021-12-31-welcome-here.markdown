@@ -8,13 +8,13 @@ abstract: Une courte présentation, et un petit tips pour l'installation de <i>J
 ### Intro
 
 Hello, je me lance enfin dans l'écriture d'un blog.
-J'imagine que dans ce genre d'exercices, l'une des difficultés s'est de resté focus sur une thématique,
+J'imagine que dans ce genre d'exercice, l'une des difficultés c'est de rester focus sur une thématique,
 well...et bien je dirais simplement que je vais essayer d'écrire à mesure que cela me passe par la tête.
-Concernant les sujets, je vais essayer d'aborder les quelques travaux que j'ai déjà réalisés, et partager d'autres choses notamment sur la tech, et des sujets plus vastes comme le heavy metal, voir du bricolage, voir les 3 à la fois.
+Concernant les sujets, je vais essayer d'aborder les quelques travaux que j'ai déjà réalisés, et partager d'autres choses notamment sur la tech, et des sujets plus vastes comme le heavy metal, voire du bricolage, voire les 3 à la fois.
 
 ### Premier problème
 
-Pour entrer dans le détail, j'ai donc utilisé [Gitlab Pages](https://docs.github.com/en/pages), et [Jekyll](https://jekyllrb.com/) (générateur de page statique).
+Pour entrer dans le détail, j'ai donc utilisé [GitHub Pages](https://docs.github.com/en/pages), et [Jekyll](https://jekyllrb.com/) (générateur de page statique).
 Etant un peu boulet, et beaucoup un aimant à "ennuis", j'ai été confronté à une erreur :  
 
 ```batch
